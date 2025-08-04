@@ -4,4 +4,4 @@
 
 ## Installation
 ```R
-devtools::install_github("YourGitHubUsername/FeatPairs")
+devtools::install_github("FangZY-Lab/FeatPairs/FeatPairs_1.0.0.tar.gz")
